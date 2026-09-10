@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="samples/EventContracts.Sample/EventContracts.Sample.csproj" />
+  <Project Path="src/EventContracts/EventContracts.csproj" />
+  <Project Path="tests/EventContracts.Tests/EventContracts.Tests.csproj" />
+</Solution>
